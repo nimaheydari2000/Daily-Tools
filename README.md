@@ -1,4 +1,4 @@
-Readme · MDKopieren🛠️ Daily Tools
+🛠️ Daily Tools
 A collection of small Python utilities for everyday tasks.
 
 Tools
