@@ -15,7 +15,7 @@ Getting Started
 
 Clone the repo:
 
-bash   git clone https://github.com/your-username/daily-tools.git
+bash   git clone https://github.com/nimaheydari2000/Daily-Tools.git
    cd daily-tools
 
 Install dependencies:
